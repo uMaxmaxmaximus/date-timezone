@@ -1,6 +1,8 @@
 I WRITE THIS POLYFILL FOR YOU!
 BEST SOLUTION ONLY FOR YOU <3 MY FRIEND!1
 
+Adding timesone control to javascript Date object. Date.setTimezoneOffset()
+
 Using:
 ```javascript
     // TO ALL dates
