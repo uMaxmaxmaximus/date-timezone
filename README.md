@@ -5,11 +5,11 @@ Adding timezone control to javascript Date object. Date.setTimezoneOffset()
 
 Using:
 ```javascript
-    // TO ALL dates
-    Date.timezoneOffset(-240) // +4 UTC
+// Timezone to ALL dates
+Date.timezoneOffset(-240) // +4 UTC
 
-    // Override offset only for this date
-    new Date().timezoneOffset(-180) // +3 UTC
+// Override timezone only for this date
+new Date().timezoneOffset(-180) // +3 UTC
 ```
 
 
